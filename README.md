@@ -15,6 +15,7 @@ Member. Templates and virtual functions are used to implement this.
   
   
 TIC_TAC_TOE:
+
    Tic Tac Toe is a game for two players, X and O, who take turns marking spaces on a 3×3 grid. The
 objective of the game is to win by placing three of their marks in a horizontal, vertical, or diagonal
 row. If neither player succeeds in doing this and all spaces are taken, then the result is a tie. 
