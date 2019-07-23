@@ -9,7 +9,7 @@ their name: ”, “Enter their age: ”, and “Enter their year: ”. If the u
 ‘staff’, then the program asks the user to “Enter their name: ”, “Enter their age: ”, and “Enter
 their position: ”. These values are sotred into a database.
 
-2)Database. Each entry sis stored in a list called DeptList with nodes of different
+2) Database. Each entry is stored in a list called DeptList with nodes of different
 classes. Each class (Student and Staff) is derived from a base class called
 Member. Templates and virtual functions are used to implement this.
  
